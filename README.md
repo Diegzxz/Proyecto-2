@@ -1,7 +1,7 @@
 # Proyecto 2 - Calculadora
 De: Diego Castilla, Johan Pardo, Samuel Ramirez
 
-es una calculadora que hice en python, funciona en la consola
+Basicamente es una calculadora graficadora hecha en python. que se ejecuta en consola
 
 ## como correrlo
 
